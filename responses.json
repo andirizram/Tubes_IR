@@ -1,0 +1,22 @@
+[
+    {
+       "message":"Kapan penyewaan ini buka ?"
+      ,"response":" Penyewaan buka pada pukul 8 pagi"
+    },
+    {
+        "message":"Berapa harga sewa untuk sebulan ?"
+       ,"response":" Harga sewa main frame 1,9 Rp 55.000 untuk sebulan."
+     },
+    {
+        "message":"Berapa harga sewa untuk dua minggu ?"
+       ,"response":" Harga sewa main frame 1,9 Rp 45.000 untuk dua minggu."
+    },
+    {
+        "message":"Berapa harga sewa untuk satu minggu ?"
+       ,"response":" Harga sewa main frame 1,9 Rp 35.000 untuk satu minggu."
+    },
+    {
+        "message":"Kapan waktu toko libur ?"
+       ,"response":" Hari Jumat dan Minggu libur"
+    }
+]
